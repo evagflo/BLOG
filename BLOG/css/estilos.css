@@ -1,0 +1,200 @@
+body
+{
+  background-color: yellow;
+    
+}
+
+.jumbotron
+{
+    background-color :white;
+    color:darkseagreen ;
+}
+
+.panel-heading
+{
+    background-color: white !important ;
+    color: darkseagreen !important;
+}
+
+.panel-heading
+{
+    background-color: white !important ;
+    color: darkseagreen !important;
+}
+
+.panel-body
+{
+    color:#2b2b2b !important;
+}
+
+.navbar
+{
+    background-color: #2b2b2b;
+}
+.navbar-brand:link, .navbar-brand:visited
+{
+    color: darkseagreen !important;
+}
+.navbar-brand:hover,.navbar-brand:active
+{
+    color: white !important;
+}
+
+#navbar li a:link, #navbar li a:visited
+{
+    color:white !important
+}
+
+#navbar li a:hover, #navbar li a:active
+{
+    color: darkseagreen !important;
+}
+
+.dropdown-menu 
+{
+    background-color: #2b2b2b;
+}
+
+.open > a 
+{
+    background-color : #2b2b2b !important;
+}
+
+.btn-primary
+{
+    background-color: darkseagreen !important;
+    border: none;
+    
+    
+}
+
+.btn-primary:hover
+{
+    background-color: #2b2b2b !important;
+}
+
+.contenido-articulo, .perfil
+{
+    background-color: lightgoldenrodyellow !important;
+    padding: 2em;
+}
+
+.sidebar
+{
+    background-color: white ;
+    
+}
+
+.gg-elemento, .sidebar
+{
+    padding-top: 1em;
+    padding-bottom: 1em;
+    
+}
+
+.gg-elemento
+{
+    color: black;
+}
+
+#gg-entradas
+{
+    background-color: #FFFFE0;
+}
+
+#gg-comentarios
+{
+    background-color: #FFFFE0;
+}
+
+#gg-favoritos
+{
+    background-color: #FFFFE0;
+}
+
+.gg-elemento:hover
+{
+    background-color: white !important;
+    color: darkseagreen !important;;
+}
+
+.parte-gestor-entradas
+{
+     background-color:#FFFFE0;
+    color: darkseagreen !important;;
+}
+
+.table-striped > tbody > tr:nth-child(odd)>td
+{
+     background-color: white;
+}
+
+.table-striped > tbody >th
+{
+     background-color: yellow
+}
+
+.table-striped>tbody>tr>td
+{
+    border: none;
+}
+.table>thead>tr>th
+{
+    border: none;
+}
+
+tbody:before{
+    content:"-";
+    display: block;
+    line-height: 1em;
+    color:transparent;
+}
+
+#boton-nueva-entrada
+{
+     background-color: darkseagreen !important;
+     color:white !important;;
+}
+
+#boton-nueva-entrada:hover
+{
+     background-color: #2b2b2b !important;
+     color:darkseagreen !important;;
+}
+
+.form-nueva-entrada
+{
+    background-color: #FFFFE0 !important;
+    color:darkseagreen !important;
+    padding:3em;
+}
+
+#resultados
+{
+    background-color: #FFFFE0 !important;
+     
+    
+}
+
+.boton-subir{
+    width:0.1px;
+    height:0.1;
+    opacity:0;
+    overflow:hidden;
+    position:absolute;
+    z-index:-1;
+}
+
+#label-archivo{
+    background-color: darkseagreen !important;
+    color:white;
+    cursor:pointer;
+    padding:1;
+    width:100%;
+    border:0.5;
+}
+
+#label-archivo:hover{
+    background-color: white !important;
+    color: darkseagreen !important;;
+}
